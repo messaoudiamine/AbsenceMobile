@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653765886038",
+    "firebase_url": "https://gestion-des-absences-rc.firebaseio.com",
+    "project_id": "gestion-des-absences-rc",
+    "storage_bucket": "gestion-des-absences-rc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653765886038:android:6b5cd225316f031210bbf7",
+        "android_client_info": {
+          "package_name": "com.example.appabsencerf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653765886038-4jm3iv0fsb0ni1ondmgrb5isbui34qtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABfNxNAX12DuWLO24837SzHiwjw5UKd_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653765886038-4jm3iv0fsb0ni1ondmgrb5isbui34qtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
